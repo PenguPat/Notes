@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="New">New</string>
+    <string name="Logout">Logout</string>
+    <string name="Login">Login</string>
+    <string name="WrongUP">Wrong Username or Password</string>
+    <string name="Save">Saving</string>
+    <string name="Saved">Saved</string>
+    <string name="Error">An Error occured</string>
+    <string name="CallFail">The Call failed</string>
+    <string name="Empty">One of the Text Fields is empty</string>
+    <string name="Delete">Delete</string>
+</resources>
